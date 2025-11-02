@@ -1,0 +1,5 @@
+fitz
+pikepdf
+PyMuPDF
+weasyprint
+
