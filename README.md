@@ -16,7 +16,7 @@ The [books](books/) directory contains a few books ready to print (see below for
 
 
 - [Lewis Carroll: Alice's Adventures in Wonderland](books/Alice_s_Adventures_in_Wonderland-booklet.pdf)
-- [HG Wells: The Ware of the Worlds](books/The_War_of_the_Worlds-booklet.pdf)
+- [HG Wells: The War of the Worlds](books/The_War_of_the_Worlds-booklet.pdf)
 - [Marcus Aurelius: Meditations](books/Meditations-booklet.pdf)
 - [Fyodor Dostoyevsky: Notes from the Underground](books/Notes_from_the_Underground-booklet.pdf)
 
