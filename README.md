@@ -60,6 +60,7 @@ Run the python script on the download link:
 ## Booklet PDF created: The_War_of_the_Worlds-booklet.pdf
 ```
 
+(Alternatively, download the zip file and run the script on the local file `./pocketbook.py path/to/downloaded/pg36-h.zip`)
 
 ### Print & Fold
 
