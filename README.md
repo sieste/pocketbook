@@ -48,7 +48,7 @@ Copy the book's "Download HTML (zip)" url from Project Gutenberg:
 
 <img src="site/copy-link.png" width=50%>
 
-Run the script:
+Run the python script on the download link:
 
 ```
 ./pocketbook.py https://www.gutenberg.org/cache/epub/36/pg36-h.zip
