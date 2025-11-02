@@ -1,8 +1,8 @@
 # PocketBook - Print & fold your own pocket-sized Gutenberg classics
 
-Turn Project Gutenberg books into very compact versions, to print on standard A4, fold to pocket size, and carry around to read anywhere.
+Turn [Project Gutenberg](https://www.gutenberg.org/) books into very compact versions, to print on standard A4, fold to pocket size, and carry around to read anywhere.
 
-The python script downloads the html version of a Project Gutenberg book and converts it into a pdf with minimised margins, tiny font size, no page breaks etc to fit as much text on paper as possible.
+The python script downloads the html version of a book and converts it into a pdf with minimised margins, tiny font size, no page breaks etc to fit as much text on paper as possible.
 
 The minified pages are arranged to be printed on standard office paper and folded into a booklet the size of a credit card.
 
