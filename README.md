@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 Copy the book's "Download HTML (zip)" url from Project Gutenberg:
 
-![Copy link](site/copy-link.png)
+<img src="site/copy-link.png" width=50%>
 
 Run the script:
 
@@ -65,9 +65,9 @@ Run the script:
 
 Print out on regular A4 office paper (one- or two-sided) and cut & fold each page using the "zine fold" technique:
 
-![Booklet fold instruction](site/booklet-fold.png)
+<img src="site/booklet-fold.png" width=50%>
 
-(Printing two-sided creates smaller books but you have to re-fold every 8 pages.)
+(Printing two-sided creates smaller books but you have to re-fold after reading 8 pages.)
 
 ---
 
