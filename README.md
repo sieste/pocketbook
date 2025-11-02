@@ -71,13 +71,6 @@ Print out on regular A4 office paper (one- or two-sided) and cut & fold each pag
 
 ---
 
-## Request a book
-
-File an issue to request a book to be added.
-
-
----
-
 ## License
 
 - [MIT License](LICENSE)
