@@ -30,8 +30,8 @@ The [books](books/) directory contains a few books ready to print (see below for
 Clone the repository
 
 ```
-git clone ...
-cd ...
+git clone git@github.com:sieste/pocketbook.git
+cd pocketbook
 ```
 
 Create a python virtual environment and install required libraries
