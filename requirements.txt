@@ -1,5 +1,5 @@
-fitz
-pikepdf
 PyMuPDF
 weasyprint
+PyPDF2
+bs4
 
