@@ -6,9 +6,7 @@ The python script downloads the html version of a Project Gutenberg book and con
 
 The minified pages are arranged to be printed on standard office paper and folded into a booklet the size of a credit card.
 
-
-![Example pocket book photos](site/pocketbook.jpg)
-
+<img src="site/pocketbook.jpg" width=50%>
 
 ---
 
