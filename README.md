@@ -70,6 +70,13 @@ Print out on regular A4 office paper (one- or two-sided, margins as small as pos
 
 (Printing two-sided creates smaller books but you have to re-fold after reading 8 pages.)
 
+### Make a sleeve
+
+You can get creative to combine the folded sheets into a proper book. I use cardboard and string like this:
+
+<img src="site/sleeve.png" width=90%>
+
+
 ---
 
 ## License
