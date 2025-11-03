@@ -72,7 +72,7 @@ Print out on regular A4 office paper (one- or two-sided, margins as small as pos
 
 ### Make a sleeve
 
-You can get creative to combine the folded sheets into a proper book. I use cardboard and string, sliding the individual booklets through loops of string like this:
+I use recycled cardboard and string to bind my pocket book. Just slide the individual booklets through loops of string wrapped around the cardboard sleeve like this:
 
 <img src="site/sleeve.png" width=70%>
 
