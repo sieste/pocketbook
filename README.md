@@ -64,7 +64,7 @@ Run the python script on the download link:
 
 ### Print & Fold
 
-Print out on regular A4 office paper (one- or two-sided, margins as small as possible). Then cut & fold each page using the "zine fold" technique:
+Print out on regular A4 office paper (one- or two-sided, margins as small as possible). Then cut & fold each page using the "zine fold":
 
 <img src="site/booklet-fold.png" width=50%>
 
